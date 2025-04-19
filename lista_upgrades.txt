@@ -1,0 +1,24 @@
+🔸 Nível 2 – Segurança & Praticidade
+
+Esconder senha ao mostrar (modo seguro)
+
+Criptografar senhas no arquivo (simples, como base64)
+
+Verificar se a senha é forte (tem todos os tipos de caracteres).
+
+Salvar nome do usuário junto com serviço (ex: Gmail - usuario@gmail.com).
+
+Buscar senhas por nome do serviço (em vez de ver todas).
+
+
+🔺 Nível 3 – Interface & Organização
+
+Criar um menu mais organizado com numeração.
+
+Usar dicionários para armazenar dados temporariamente na execução.
+
+Salvar as senhas em um arquivo .json em vez de .txt.
+
+Adicionar cor no terminal (com colorama).
+
+Transformar em uma aplicação com interface (GUI) usando Tkinter ou Flet.
