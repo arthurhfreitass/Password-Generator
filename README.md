@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/61231187-b6ca-4eb7-8330-684d087ee1ae)
+![Crie um logotipo vetorial moderno e minimalista para uma aplicação chamada _Password Generator_ _O logo deve conter um cadeado azul turquesa estilizado no topo, com uma barra branca abaixo contendo asteriscos pret](https://github.com/user-attachments/assets/dd63ff5f-21c6-45d0-adb2-eeef5b43777f)
+
+
 
 
 # Gerador de Senhas NÃO TERMINADO
