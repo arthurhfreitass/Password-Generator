@@ -1,4 +1,4 @@
-# Gerador de Senhas 
+# Gerador de Senhas NÃO TERMINADO
 
 Este é um gerador de senhas em Python, simples, prático e com foco em segurança. O objetivo deste projeto é criar senhas fortes e seguras, com a possibilidade de codificar as senhas utilizando **Base64** antes de salvá-las em um arquivo. A ferramenta foi desenvolvida para usuários que buscam uma maneira fácil de gerar senhas seguras e organizadas.
 
